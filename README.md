@@ -1,3 +1,3 @@
-# game-save-manager :heart:
+# game-save-manager
 
 Improve some functions
